@@ -24,7 +24,7 @@
 ![Annamacharya](http://www.andhraportal.org/wp-content/uploads/2015/05/annamayya.jpg)
 
 ### Links
-[GitHub](https://github.com)
+.[GitHub](https://github.com)
 
 ### BLOCKQUOTES
 The legend once said
