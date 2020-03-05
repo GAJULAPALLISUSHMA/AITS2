@@ -11,8 +11,8 @@
 * Banana
 * Custard Apple
 * Orange
-   *Orange1
-   *Orange2
+  *Orange1
+  *Orange2
 ### Orederd List
 1.Brinjal
 2.Cabbage
