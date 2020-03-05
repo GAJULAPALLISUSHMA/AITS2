@@ -21,7 +21,7 @@
     2.Drum Stick2
 
 ### Image
-[!Annamacharya](http://www.andhraportal.org/wp-content/uploads/2015/05/annamayya.jpg)
+![Annamacharya](http://www.andhraportal.org/wp-content/uploads/2015/05/annamayya.jpg)
 
 ### Links
 [GitHub](https://github.com)
